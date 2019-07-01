@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Bugs Bunny",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/220px-Bugs_Bunny.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Daffy Duck",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Tweety Bird",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/1200px-Tweety.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Tasmanian Devil",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/220px-Taz-Looney_Tunes.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Porky Pig",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/1200px-Porky_Pig.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Sylvester",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/1200px-Sylvester_the_Cat.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Yosemite Sam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Yosemite_Sam.svg/800px-Yosemite_Sam.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Marvin the Martian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/1200px-Marvin_the_Martian.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Pepe Le Pew",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Pep%C3%A9_Le_Pew.svg/220px-Pep%C3%A9_Le_Pew.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Elmer Fudd",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/ElmerFudd.gif/220px-ElmerFudd.gif",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Speedy Gonzales",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Speedy_Gonzales.svg/220px-Speedy_Gonzales.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Foghorn Leghorn",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Foghorn_Leghorn.png",
+        "clicked": false
+    }
+]
